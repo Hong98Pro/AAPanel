@@ -5,7 +5,7 @@ chattr +i /www/server/panel/data/plugin.json
 chattr -i /www/server/panel/data/repair.json
 rm /www/server/panel/data/repair.json
 cd /www/server/panel/data
-wget https://raw.githubusercontent.com/dominhtri2007/crack/main/resource/repair.json
+wget https://raw.githubusercontent.com/Hong98Pro/AAPanel/main/repair.json
 chattr +i /www/server/panel/data/repair.json
 red "cracked đã hoàn  tất"
 
